@@ -1,0 +1,40 @@
+body{
+    background-color: #E1E1E1;
+}
+
+.button-active {
+    background-color: rgba(190, 190, 190, 0.2);
+}
+
+.background-image{
+    background-image: url("assets/images/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-color: red;
+}
+
+.background-image2{
+    background-image: url("assets/images/img2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-color: red;
+}
+
+.image-text {
+    text-shadow: 1px 1px 2px black;
+}
+
+.img-total {
+    width: 100%;
+    height: auto;
+}
+
+.maxwidth {
+    max-width: 700px;
+}
+
+.link {
+    text-decoration: none;
+}
